@@ -87,7 +87,7 @@ main a {
 }
 
 main {
-  background: url(../images/your_verse_hero.jpg) 50% 101% no-repeat;
+  background: url(../images/your_verse_hero.jpg) 50% 100% no-repeat;
   width: 100%;
   height: 538px;
   background-size: cover;
@@ -134,4 +134,17 @@ main div {
   top: 5px;
   width: 25px;
   height: 25px;
+}
+
+aside {
+    display: flex;
+    margin: 2px auto;
+}
+
+aside a {
+    flex: 1;
+}
+
+aside img {
+    width: 100%;
 }
