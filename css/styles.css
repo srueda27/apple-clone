@@ -22,6 +22,10 @@ main a {
   text-decoration: none;
 }
 
+aside a {
+  flex: 1;
+}
+
 .nav-bar {
   display: flex;
   width: 80%;
@@ -137,14 +141,10 @@ main div {
 }
 
 aside {
-    display: flex;
-    margin: 2px auto;
-}
-
-aside a {
-    flex: 1;
+  display: flex;
+  margin: 2px auto;
 }
 
 aside img {
-    width: 100%;
+  width: 100%;
 }
