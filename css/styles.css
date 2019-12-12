@@ -6,11 +6,12 @@
 }
 
 html {
-    max-width: 1300px;
+  min-width: 800px;
+  max-width: 1300px;
 }
 
 body {
-    position: relative;
+  position: relative;
 }
 
 nav {
@@ -105,8 +106,8 @@ footer a {
 }
 
 .nav-bar li:last-child:hover {
-    transition: 0.5s;
-    flex: 3;
+  transition: 0.5s;
+  flex: 3;
 }
 
 main {
