@@ -5,6 +5,14 @@
   font-family: 'Arimo', sans-serif;
 }
 
+html {
+    max-width: 1300px;
+}
+
+body {
+    position: relative;
+}
+
 nav {
   position: absolute;
   top: 30px;
@@ -94,6 +102,11 @@ footer a {
 
 .nav-bar li:hover:not(:last-child) {
   background: linear-gradient(rgb(53, 52, 52), #414040 50%, #525050 50%, #636262);
+}
+
+.nav-bar li:last-child:hover {
+    transition: 0.5s;
+    flex: 3;
 }
 
 main {
