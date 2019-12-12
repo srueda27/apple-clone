@@ -1,6 +1,6 @@
 # apple-clone
 
-Made a Login form from the [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/) 2014 website.
+Made a clone page from the [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/) 2014 website.
 
 # Technologies:
 - HTML
