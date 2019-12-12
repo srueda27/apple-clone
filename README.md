@@ -7,7 +7,7 @@ Made a Login form from the [Apple](https://web.archive.org/web/20140301004610/ht
 - CSS
 
 # Website:
-- Checkout our website at: [mint-clone](https://srueda27.github.io/apple-clone/)
+- Checkout our website at: [Apple-clone](https://srueda27.github.io/apple-clone/)
 
 # Contributors:
 - [Santiago Rueda](https://github.com/srueda27)
