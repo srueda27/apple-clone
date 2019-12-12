@@ -148,3 +148,32 @@ aside {
 aside img {
   width: 100%;
 }
+
+footer {
+    display: block;
+    width: 75%;
+    margin: 20px auto;
+    font-size: 10px;
+    color: #6e6e6e;
+}
+
+footer a {
+    color: #08c;
+    text-decoration: none;
+}
+
+footer div {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 20px;
+}
+
+footer img {
+    position: relative;
+    top: 5px;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
