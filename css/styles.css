@@ -17,13 +17,18 @@ main a {
   align-items: center;
   color: white;
   width: 100%;
-  margin: 0 auto;
+  margin: 10px auto;
   text-align: center;
   text-decoration: none;
 }
 
 aside a {
   flex: 1;
+}
+
+footer a {
+  color: #08c;
+  text-decoration: none;
 }
 
 .nav-bar {
@@ -80,6 +85,7 @@ aside a {
   border: none;
   box-shadow: 1px 1px 1px 1px rgb(58, 57, 57) inset;
   direction: rtl;
+  color: white;
 }
 
 .nav-bar li:not(:first-child) {
@@ -150,30 +156,25 @@ aside img {
 }
 
 footer {
-    display: block;
-    width: 75%;
-    margin: 20px auto;
-    font-size: 10px;
-    color: #6e6e6e;
-}
-
-footer a {
-    color: #08c;
-    text-decoration: none;
+  display: block;
+  width: 75%;
+  margin: 20px auto;
+  font-size: 10px;
+  color: #6e6e6e;
 }
 
 footer div {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 15px;
 }
 
 footer img {
-    position: relative;
-    top: 5px;
+  position: relative;
+  top: 5px;
 }
 
-footer a:hover{
-    text-decoration: underline;
+footer a:hover {
+  text-decoration: underline;
 }
